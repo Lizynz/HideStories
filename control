@@ -1,0 +1,9 @@
+Package: com.hidestories.lizynz
+Name: Hide Stories
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Скрывает баннер "истории" с новостной ленты
+Maintainer: Lizynz
+Author: Lizynz
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
